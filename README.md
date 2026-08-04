@@ -76,3 +76,9 @@ Verifies this tree remains a teaser (no claim-set files present).
 | Fleet | [profile](https://github.com/mrodgersjs-web) · [resume](https://github.com/mrodgersjs-web/resume) · [patents](https://github.com/mrodgersjs-web/patents) |
 
 If `scripts/smoke.sh` fails, treat README claims as false until fixed.
+
+## Video walkthrough
+
+- [`assets/demo.mp4`](assets/demo.mp4)
+- ![preview](assets/demo.gif)
+
