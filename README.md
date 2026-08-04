@@ -61,3 +61,18 @@ bash scripts/smoke.sh
 ```
 
 Verifies this tree remains a teaser (no claim-set files present).
+
+
+---
+
+## FDE bar (this studio)
+
+| Practice | Here |
+| --- | --- |
+| Employer summary | top of README |
+| Smoke proof | `bash scripts/smoke.sh` |
+| Public boundary | `docs/public-boundary.md` |
+| Claim under test | teaser only no claims |
+| Fleet | [profile](https://github.com/mrodgersjs-web) · [resume](https://github.com/mrodgersjs-web/resume) · [patents](https://github.com/mrodgersjs-web/patents) |
+
+If `scripts/smoke.sh` fails, treat README claims as false until fixed.
