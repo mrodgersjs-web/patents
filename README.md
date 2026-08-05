@@ -2,6 +2,8 @@
 
 > Patent family **status surface** for Rodgers Intelligence Group / Mike Rodgers.  
 > **This repository does not contain claim sets, specification bodies, or enabling source.**
+**Outcome:** `bash scripts/smoke.sh` verifies the tree remains a teaser with 0 claim-set files across 3 public patent families (RIG-DE-001, RIG-LAT-002, RIG-PHR-003).
+
 
 ![status](https://img.shields.io/badge/IP-teaser%20only-orange)
 ![clone](https://img.shields.io/badge/enabling%20IP-not%20published-red)
