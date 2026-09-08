@@ -10,5 +10,5 @@ fi
 test -f README.md
 test -f docs/public-boundary.md
 test -f docs/non-cloneable-ip.md
-rg -q 'No claims' README.md
+grep -q 'No claims' README.md
 echo "patents teaser smoke PASS"
