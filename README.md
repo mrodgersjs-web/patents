@@ -86,3 +86,6 @@ If `scripts/smoke.sh` fails, treat README claims as false until fixed.
 - [`assets/demo.mp4`](assets/demo.mp4)
 - ![preview](assets/demo.gif)
 
+---
+
+[rodgersintelligence.com](https://rodgersintelligence.com/)
