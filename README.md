@@ -56,7 +56,7 @@ See [`docs/public-boundary.md`](docs/public-boundary.md) and [`docs/non-cloneabl
 Private materials (if any) live in a **private** vault with access only under NDA / counsel instruction.  
 They are **not** mirrored to this public repo and are **not** offered as anonymous clones.
 
-Contact: [mrodgersjs@gmail.com](mailto:mrodgersjs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mike-rodgers-14416414/)
+Contact: [mrodgersjs@gmail.com](mailto:mrodgersjs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mike-rodgers-ai/)
 
 ## Smoke
 
